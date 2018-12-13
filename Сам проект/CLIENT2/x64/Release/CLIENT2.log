@@ -1,0 +1,18 @@
+﻿  CLIENT2.cpp
+c:\users\.etsu\desktop\сам проект\client2\client2.cpp(100): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\.etsu\desktop\сам проект\client2\client2.cpp(115): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\.etsu\desktop\сам проект\client2\client2.cpp(127): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\.etsu\desktop\сам проект\client2\client2.cpp(131): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\.etsu\desktop\сам проект\client2\client2.cpp(135): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\.etsu\desktop\сам проект\client2\client2.cpp(162): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\.etsu\desktop\сам проект\client2\client2.cpp(166): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\.etsu\desktop\сам проект\client2\client2.cpp(170): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\.etsu\desktop\сам проект\client2\client2.cpp(140): warning C4101: size: неиспользованная локальная переменная
+c:\users\.etsu\desktop\сам проект\client2\client2.cpp(179): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\.etsu\desktop\сам проект\client2\client2.cpp(183): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\.etsu\desktop\сам проект\client2\client2.cpp(187): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\.etsu\desktop\сам проект\client2\client2.cpp(191): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  All 150 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  CLIENT2.vcxproj -> C:\Users\.etsu\Desktop\Сам проект\x64\Release\CLIENT2.exe
